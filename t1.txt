@@ -1,1 +1,5 @@
 123456
+
+[user]
+	email = myrongoh@163.combk
+	name = mingyan1024bk
